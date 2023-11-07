@@ -39,7 +39,6 @@ You can use slash commands in a [chat window](visual-studio-github-copilot-chat.
 | **Command** | **Usage** | **Chat window** | **Interactive code assistant** | **Example** |
 |---------------------------|:--------------------:|:-----------------:|
 | /askvs| Ask questions related to Visual Studio | Yes | No | /askvs How do I connect Visual Studio to a Git Repository?|
-| /clear| Clear the chat window | Yes | No | /clear |
 | /createtest| Create unit tests for the selected code| Yes | Yes | select desired code and enter /createtest |
 | /doc| Add comments for specified or selected code | Yes | Yes | - /doc DeleteBasketAsync method in BasketService.cs</br> - select desired code and enter /doc|
 | /explain | Explain the code | Yes | Yes | - /explain the AddItemToBasket method in BasketService.cs</br> - select desired code and enter /explain|
